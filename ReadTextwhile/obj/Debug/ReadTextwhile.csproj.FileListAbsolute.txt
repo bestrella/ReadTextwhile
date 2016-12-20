@@ -1,0 +1,7 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\bin\Debug\ReadTextwhile.exe.config
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\bin\Debug\ReadTextwhile.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\bin\Debug\ReadTextwhile.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\obj\Debug\ReadTextwhile.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\obj\Debug\ReadTextwhile.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\bin\Debug\Values.txt
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\ReadTextwhile\ReadTextwhile\obj\Debug\ReadTextwhile.csprojResolveAssemblyReference.cache
